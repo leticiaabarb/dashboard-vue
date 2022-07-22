@@ -1,9 +1,9 @@
 import axios from "axios";
 
 // DESCOMENTAR QUANDO USAR EM API LOCAL
-const localServer = "localhost";
-const localPort = "8000";
-axios.defaults.baseURL = `http://${localServer}:${localPort}`;
+//const localServer = "localhost";
+//const localPort = "8000";
+//axios.defaults.baseURL = `http://${localServer}:${localPort}`;
 
 // DESCOMENTAR QUANDO USAR EM API PUBLICA
 // const publicServer =
